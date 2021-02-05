@@ -1,0 +1,6 @@
+[Unit]
+Description=GfxTablet Service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/networktablet
